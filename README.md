@@ -1,5 +1,5 @@
 # Final Project - Programming for Datascience
 Team member: Trần Minh Hiệp - 20127023
 
-Our workplan : 
-https://docs.google.com/spreadsheets/d/1-aB_dcX36A-_8aDiAIjUEKMZxsF_NBaBN58ezkuutns/edit?usp=sharing
+Workplan : 
+https://docs.google.com/spreadsheets/d/1l2exfMCBrGgPTUNDGeIR3XDWF4PX6bxuqYrMM7PWFoU/edit?usp=sharing
